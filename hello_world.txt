@@ -1,0 +1,1 @@
+Hello, I'm doing the Odin git course.
